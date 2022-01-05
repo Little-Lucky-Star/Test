@@ -19,7 +19,7 @@ com.tencent.mm:id/auj;c
 好的;c
 我的;c
 他的;lc
-当我测试的时候\
+当我测试的时候
 点击;c
 再试试;c
 ]
